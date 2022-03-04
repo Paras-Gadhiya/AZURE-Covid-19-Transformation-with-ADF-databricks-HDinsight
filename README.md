@@ -10,7 +10,7 @@ and find some useful insight in order to make decisions.
 -------------------
 # Objective : 
 -------------------
-Create a data platform for our data scientist and data analyst team can run a machine learning model to 
+Create a data platform for our data scientist and data analyst team where they can run a machine learning model to 
 predict the spread of CORONA VIRUS.
 
 --------------------------
